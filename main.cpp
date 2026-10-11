@@ -1,1 +1,3 @@
-cout << "First"
+int main(){
+	print()day 2
+}
